@@ -1,0 +1,19 @@
+PODS:
+  - LBXScan (2.2):
+    - LBXScan/All (= 2.2)
+  - LBXScan/All (2.2):
+    - LBXScan/Types (~> 2.2)
+    - ZBarSDK (~> 1.3.1)
+  - LBXScan/Types (2.2)
+  - ZBarSDK (1.3.1)
+
+DEPENDENCIES:
+  - LBXScan (~> 2.2)
+
+SPEC CHECKSUMS:
+  LBXScan: 31b69c9657404133324e6b68ef814802ef9cacc0
+  ZBarSDK: 4c1b5daeb7d6cc67dc9355e690af0230a661f6ec
+
+PODFILE CHECKSUM: 619db3ad09e554f301c5d09480e64d817323ac42
+
+COCOAPODS: 1.3.1
